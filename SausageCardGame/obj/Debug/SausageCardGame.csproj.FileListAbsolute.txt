@@ -1,0 +1,7 @@
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\bin\Debug\SausageCardGame.exe.config
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\bin\Debug\SausageCardGame.exe
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\bin\Debug\SausageCardGame.pdb
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\obj\Debug\SausageCardGame.csproj.AssemblyReference.cache
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\obj\Debug\SausageCardGame.csproj.CoreCompileInputs.cache
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\obj\Debug\SausageCardGame.exe
+C:\Users\max25\source\repos\SausageCardGame\SausageCardGame\obj\Debug\SausageCardGame.pdb
